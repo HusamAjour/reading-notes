@@ -1,6 +1,6 @@
 # reading-notes
 Page Navigator:
-* [Markdown](#markdown)
+* [Markdown](#markdwon)
 * [Growth Mindset](#growth-mindset)
 
 
