@@ -125,3 +125,5 @@ The table below summerizes the image:
 | Criticism | Ignoe | Learns from |
 | Sucess of others  | Views as a threat | is inspied by |
 | Result | Fails to reach full potential | Acheives more & higher goals |
+
+[Link to the article](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
