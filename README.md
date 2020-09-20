@@ -72,7 +72,9 @@ This is how it appears:
 
 ### Images
 You can add an image using markdown by adding! followed by the alterantive value of the image between `[` and `]` followed by the link of the image between `(` and `)`.
+
 ##### Example:
+
 This is how its written useing markdown:
 ```
 ![github](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
@@ -89,11 +91,13 @@ This is how it appears:
 You can add an image using markdown by writting the word that points to the link between `[ and ]` followed by the link between `( and )`.
 
 EXAMPLE:
+
 This is how its written useing markdown:
 
 ```
 [Google](https://www.google.com/)
 ```
 This is how it appears:
+
 [Google](https://www.google.com/)
 
