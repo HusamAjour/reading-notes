@@ -119,3 +119,9 @@ The table below summerizes the image:
 
 |   |  Fixed Mindset | Growth Mindset  |
 |---|---|---|
+|   Challanges | Avoid | Embrace |
+| Obsacles | Loses focus | Persists |
+| Effort | Views as fruitless | No pain, no gain |
+| Criticism | Ignoe | Learns from |
+| Sucess of others  | Views as a threat | is inspied by |
+| Result | Fails to reach full potential | Acheives more & higher goals |
