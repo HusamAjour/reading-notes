@@ -27,8 +27,21 @@ This is how it appears:
 ##### Header 5
 ###### Header 6
 
+**Note:** The order of numbers doesn't really matter as long as the item list is preceded with a number, the markdown will put the numbering as the items are ordered.
 
 
+### Styling Text
+We can style our markdown text as bold, italid, and strikethrough. 
+
+To style the text as bold, we need to put the desired text between `**` `**`.
+
+##### Example:
+This is how its written useing markdown:
+```
+**Bold Text**
+```
+This is how it appears:
+**Bold Text**
 
 
 
