@@ -1,37 +1,99 @@
-## Welcome to GitHub Pages
+# reading-notes
 
-You can use the [editor on GitHub](https://github.com/HusamAjour/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## What is Markdown?
+Markdown is often used for formatting readme files where the content is more important than the design. Markdown is mostly a regular text with some characters used such as `#` or `*`.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Markdown syntax anfd formatting
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Headers 
+Headers can vary in size. we have six different sizes for headers, and that can be determined by number of # signs you use with the fact that the more # signs you will use the smaller the header you will get.
 
-```markdown
-Syntax highlighted code block
+##### Example:
 
+This is how its written useing markdown:
+`# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6`
+
+This is how it appears:
 # Header 1
 ## Header 2
 ### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
 
-- Bulleted
-- List
+**Note:** The order of numbers doesn't really matter as long as the item list is preceded with a number, the markdown will put the numbering as the items are ordered.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Styling Text
+We can style our markdown text as bold, italid, and strikethrough. 
 
-[Link](url) and ![Image](src)
+To style the text as bold, we need to put the desired text between `**` `**`.
+
+##### Example:
+This is how its written useing markdown:
+```
+**Bold Text**
+```
+This is how it appears:
+**Bold Text**
+
+
+We can style our markdown text as bold, Italic, and strikethrough. 
+
+To style the text as Italic, we need to put the desired text between `*` `*`.
+
+##### Example:
+This is how its written useing markdown:
+```
+*Italic Text*
+```
+This is how it appears:
+*Italic Text*
+
+
+We can style our markdown text as bold, Italic, and strikethrough. 
+
+To style the text as strikethrough, we need to put the desired text between `*` `*`.
+
+##### Example:
+This is how its written useing markdown:
+```
+~~strikethrough Text~~
+```
+This is how it appears:
+~~strikethrough Text~~
+
+
+### Images
+You can add an image using markdown by adding! followed by the alterantive value of the image between `[` and `]` followed by the link of the image between `(` and `)`.
+##### Example:
+This is how its written useing markdown:
+```
+![github](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This is how it appears:
 
-### Jekyll Themes
+This is how it appears:
+![github](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HusamAjour/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Links
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can add an image using markdown by writting the word that points to the link between `[ and ]` followed by the link between `( and )`.
+
+EXAMPLE:
+This is how its written useing markdown:
+
+```
+[Google](https://www.google.com/)
+```
+This is how it appears:
+[Google](https://www.google.com/)
+
