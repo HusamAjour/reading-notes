@@ -5,3 +5,19 @@ Markdown is often used for formatting readme files where the content is more imp
 
 
 ## Markdown syntax anfd formatting
+
+### Headers 
+Headers can vary in size. we have six different sizes for headers, and that can be determined by number of # signs you use with the fact that the more # signs you will use the smaller the header you will get.
+
+##### Example:
+
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
+
+
+
