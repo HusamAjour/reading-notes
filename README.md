@@ -117,7 +117,7 @@ The image below shows the differences between fixed mindset and growth mindset.
 
 The table below summerizes the image:
 
-|   |  Fixed Mindset | Growth Mindset  |
+| Faces of comparison |  Fixed Mindset | Growth Mindset  |
 |---|---|---|
 |   Challanges | Avoid | Embrace |
 | Obsacles | Loses focus | Persists |
