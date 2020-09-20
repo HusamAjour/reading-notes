@@ -168,4 +168,3 @@ Some of the very good features that exist in code editors are as follows:
 | ls -a |  lists down all the files and directories including the hidden ones  |
 | pwd | prints out the path of the diretory you're in  |
 | cd [location] | changes location to the specified location |
-|  |  |
