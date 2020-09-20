@@ -164,3 +164,8 @@ Some of the very good features that exist in code editors are as follows:
 ### Command Line cheatsheet
 | Command | What it Does |
 |--- |--- |
+| ls | lists down all the files and directories in the current directory |
+| ls -a |  lists down all the files and directories including the hidden ones  |
+| pwd | prints out the path of the diretory you're in  |
+| cd [location] | changes location to the specified location |
+|  |  |
