@@ -82,7 +82,6 @@ This is how its written useing markdown:
 
 This is how it appears:
 
-This is how it appears:
 ![github](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
 
 
