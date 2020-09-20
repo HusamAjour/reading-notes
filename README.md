@@ -162,6 +162,7 @@ Some of the very good features that exist in code editors are as follows:
 # Command Line
 
 ### Command Line cheatsheet
+
 | Command | What it Does |
 |--- |--- |
 | ls | lists down all the files and directories in the current directory |
