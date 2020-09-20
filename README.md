@@ -11,12 +11,13 @@ Headers can vary in size. we have six different sizes for headers, and that can 
 
 ##### Example:
 
-# Header 1
+'#' Header 1
 ## Header 2
 ### Header 3
 #### Header 4
 ##### Header 5
 ###### Header 6
+
 
 
 
