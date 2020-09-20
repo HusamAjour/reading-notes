@@ -111,6 +111,13 @@ Growth mindset is built on love of learning. Abilities and skills can be deveolp
 
 The differance between gwoth mindset and a fixed mindset is poeople who have a fixed mindset beleive that you must have a talent and you need to be intelligent in order to suceess or to develop a skill, while in growth mindest its believed that talent amd intelligence are a good start but they're not a must but you can develop a skill or to success in something by putting an effort and doing a hardwork.
 
+### Reminders to self on how to maintain a growth mindset and how to keep it
+
+1. Always try all the possible ways to get the job done and never say it is impossible.
+1. Ask for help instead of giving up.
+1. Everything is hard when you tr to do it the fist time but it gets easier the more you try.
+
+
 The image below shows the differences between fixed mindset and growth mindset.
 
 ![Difference between fixed and growth mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
