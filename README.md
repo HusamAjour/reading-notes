@@ -1,7 +1,7 @@
 # reading-notes
 
 ## What is Markdown?
-Markdown is often used for formatting readme files where the content is more important than the design. Markdown is mostly a regular text with some characters used such as # or '*'.
+Markdown is often used for formatting readme files where the content is more important than the design. Markdown is mostly a regular text with some characters used such as `#` or `*`.
 
 
 ## Markdown syntax anfd formatting
@@ -12,12 +12,12 @@ Headers can vary in size. we have six different sizes for headers, and that can 
 ##### Example:
 
 This is how its written useing markdown:
-'# Header 1
+`# Header 1
 ## Header 2
 ### Header 3
 #### Header 4
 ##### Header 5
-###### Header 6'
+###### Header 6`
 
 This is how it appears:
 # Header 1
