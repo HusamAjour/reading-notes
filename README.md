@@ -86,5 +86,14 @@ This is how it appears:
 
 ### Links
 
+You can add an image using markdown by writting the word that points to the link between `[ and ]` followed by the link between `( and )`.
 
+EXAMPLE:
+This is how its written useing markdown:
+
+```
+[Google](https://www.google.com/)
+```
+This is how it appears:
+[Google](https://www.google.com/)
 
