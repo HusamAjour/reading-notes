@@ -44,6 +44,32 @@ This is how it appears:
 **Bold Text**
 
 
+We can style our markdown text as bold, Italic, and strikethrough. 
+
+To style the text as Italic, we need to put the desired text between `*` `*`.
+
+##### Example:
+This is how its written useing markdown:
+```
+*Italic Text*
+```
+This is how it appears:
+*Italic Text*
+
+
+We can style our markdown text as bold, Italic, and strikethrough. 
+
+To style the text as strikethrough, we need to put the desired text between `*` `*`.
+
+##### Example:
+This is how its written useing markdown:
+```
+~~strikethrough Text~~
+```
+This is how it appears:
+~~strikethrough Text~~
+
+
 
 
 
