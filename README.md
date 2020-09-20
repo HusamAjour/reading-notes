@@ -2,7 +2,8 @@
 Page Navigator:
 * [Markdown](#markdwon)
 * [Growth Mindset](#growth-mindset)
-
+* [Text Editor](#markdwon)
+* [Command Line](#growth-mindset)
 
 # Markdwon
 ## What is Markdown?
@@ -143,7 +144,7 @@ The table below summerizes the image:
 
 
 
-#Text Editor
+# Text Editor
 
 ### What is a text editor?
 Text editor is a software that is used to build websites. It could be an online software or a software you install on your laptop.
@@ -158,6 +159,6 @@ Some of the very good features that exist in code editors are as follows:
 [Link to the article](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 
 
-#Command Line
+# Command Line
 
 ### Command Line cheatsheet
