@@ -100,3 +100,16 @@ This is how it appears:
 
 [Google](https://www.google.com/)
 
+
+
+
+# Growth Mindset
+
+### The definintion of a growth mindset
+
+Growth mindset is built on love of learning. Abilities and skills can be deveolped and through hardwork and putting effor.
+
+The differance between gwoth mindset and a fixed mindset is poeople who have a fixed mindset beleive that you must have a talent and you need to be intelligent in order to suceess or to develop a skill, while in growth mindest its believed that talent amd intelligence are a good start but they're not a must but you can develop a skill or to success in something by putting an effort and doing a hardwork.
+
+The image below shows the differences between fixed mindset and growth mindset.
+![Difference between fixed and growth mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
