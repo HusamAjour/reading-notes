@@ -2,8 +2,8 @@
 Page Navigator:
 * [Markdown](#markdwon)
 * [Growth Mindset](#growth-mindset)
-* [Text Editor](#markdwon)
-* [Command Line](#growth-mindset)
+* [Text Editor](#text-editor)
+* [Command Line](#command-line)
 
 # Markdwon
 ## What is Markdown?
@@ -162,3 +162,5 @@ Some of the very good features that exist in code editors are as follows:
 # Command Line
 
 ### Command Line cheatsheet
+| Command | What it Does |
+|--- |--- |
