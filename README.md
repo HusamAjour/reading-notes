@@ -7,5 +7,5 @@ This Github repository was created by Husam Ajour as an assingment during the So
 ## Table of content
 
 - [Read 01 - Markdown](read-01.md)
-- [Read 02 - Growth Mindset and Text Editors](/reading-notes/read-02)
-- [Read 03 - Version Control and Git](/reading-notes/read-03)
+- [Read 02 - Growth Mindset and Text Editors](read-02.md)
+- [Read 03 - Version Control and Git](read-03.md)
