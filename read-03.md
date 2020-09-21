@@ -24,3 +24,13 @@ The table below shows some of GIT commands and how to use them:
 
 | Command | Usage of the command |
 |---|---|
+| `code .` | This command opens VS Code |
+| `git clone "link" `| Clone a repository to your local machine from github |
+| `git config --global user.name "Name Name"` | Configures the settings of git by adding your username |
+| `git config --global user.email "emal@email.com" ` | Configures the settings of git by adding your email |
+| `git config --list` | Displays the saved configuration if git |
+| `git command --help` | Shows help to the user ragarding the specified command |
+| `git status` | Shows the user which branch hes on and states if there is any changes were applied on the any of the files in the repository |
+| `git add *` | changed files are tracked and staged for committing |
+| `git commit -m “made change x,y,z”` | commit changes and record what you did within the commit message |
+| `git push origin master` | pushes changes from the local “master” branch to the remote repository named “origin” |
