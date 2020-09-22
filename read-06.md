@@ -15,3 +15,5 @@ The computer takes input through input devices and they will convert the input i
 ### Hardware and Software
 
 The computer components are divided into two parts: Hardware and Software. Hardware includes all the physical pieces that you can see and touch, while software includes all the non-phyiscal things that happens inside of the computer.
+
+[Back to Home](README.md)
