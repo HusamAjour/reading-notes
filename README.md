@@ -10,3 +10,4 @@ This Github repository was created by Husam Ajour as an assingment during the So
 - [Read 02 - Growth Mindset and Text Editors](read-02.md)
 - [Read 03 - Version Control and Git](read-03.md)
 - [Read 04 - HTML](read-04.md)
+- [Read 05 - CSS](read-05.md)

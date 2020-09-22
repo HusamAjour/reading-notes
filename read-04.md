@@ -2,7 +2,7 @@
 
 # Read 04
 
-## HTML & CSS
+## HTML
 
 ### Structure
 
