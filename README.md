@@ -13,3 +13,4 @@ This Github repository was created by Husam Ajour as an assingment during the So
 - [Read 05 - CSS](read-05.md)
 - [Read 06 - How Computers Work](read-06.md)
 - [Read 07 - JavaScript](read-07.md)
+- [Read 08 - Decisions & Loops](read-08.md)
