@@ -27,7 +27,7 @@ Logical operaors are used when the need is to compare the results of more than o
 |---|---|---|
 | `&&` | Logial AND | tests more than one condition |
 | `!` | Logial NOT | inverts a single boolean value |
-| `\|\|` | Logical OR | tests at least one condition |
+| `||` | Logical OR | tests at least one condition |
 
 ### Loops
 
